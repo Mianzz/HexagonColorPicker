@@ -3,7 +3,7 @@
 
 Screenshot:
 
-![alt text](https://github.com/Mianzz/HexagonColorPicker/blob/master/apng.png "Image Picker Screenshot")
+![alt text](https://github.com/Mianzz/HexagonColorPicker/blob/master/apng1.png "Image Picker Screenshot")
 
 
 The MIT License (MIT)
